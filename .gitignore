@@ -23,7 +23,7 @@ Thumbs.db
 coverage/
 
 # Archivos de configuración de editor
-.vscode/
+.vscode/g
 .idea/
 *.sublime-workspace
 *.sublime-project
